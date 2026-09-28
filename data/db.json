@@ -1,0 +1,139 @@
+{
+  "users": [
+    {
+      "id": "user_58737db9-ca7e-4c1d-93a4-650b578be055",
+      "name": "Ashpak",
+      "email": "ashpak@example.com",
+      "passwordHash": "fb9482743af5a9544e076d434f26f5ab1e428851d4ae9e68f072ca9f3a7bf76d102832bff3e631a64a4cef7521716e97ed576c4f541fe6501ca9ad59bf6947a3",
+      "salt": "86c0fd6ed64cd4bbfb439890cfe02ba2",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Ashpak&backgroundColor=10b981",
+      "createdAt": 1790307306088,
+      "token": "4dd91404203d87b30a5a9e234153110f91edfacae98526b20e0b009b74be6373",
+      "likedSongs": [],
+      "recentlyPlayed": [],
+      "searchHistory": []
+    },
+    {
+      "id": "user_2d69ca08-326f-4aec-83f9-27742b905979",
+      "name": "ash",
+      "email": "ashapakmaniyar25@gmail.com",
+      "passwordHash": "22da078f35334b7b6b6bbf2851fb4b639489eaff8ef5caafce40979d6210d66fd9f101e3fa9458d4494a09fa781a5db858337149f011f9fa65e256b568ebd2fd",
+      "salt": "5714ee96abca52c60eccd34a9d56b987",
+      "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=ash&backgroundColor=f59e0b",
+      "createdAt": 1790308221117,
+      "token": "f2abcd782180e7aa8a2052a19cdf7c9ad7f71193dbe41cdfc8c98be97107a830",
+      "likedSongs": [],
+      "recentlyPlayed": [
+        {
+          "id": "7D4vNcK6D38",
+          "title": "Coke Studio",
+          "artist": "Coke Studio Pakistan",
+          "duration": "6:41",
+          "durationSeconds": 401,
+          "thumbnail": "https://i.ytimg.com/vi/7D4vNcK6D38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcweFgBjCLgmgu-0jCaQjSAC-xtA",
+          "views": "139,735,135 views",
+          "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ",
+          "addedAt": 1790308465442
+        },
+        {
+          "id": "8w08RbWk0dw",
+          "title": "LAAVAN",
+          "artist": "TuneForgeMusic",
+          "duration": "3:07",
+          "durationSeconds": 187,
+          "thumbnail": "https://i.ytimg.com/vi/8w08RbWk0dw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4oUa0zoeOkMJ4aC8rO9IXSSolkg",
+          "views": "256,825 views",
+          "channelId": "UCWOXvMQM9T9ShfAHjuqVC3g",
+          "addedAt": 1790308451266
+        },
+        {
+          "id": "SRKpT862LJs",
+          "title": "16D Audio 🎧",
+          "artist": "Laavan",
+          "duration": "3:04",
+          "durationSeconds": 184,
+          "thumbnail": "https://i.ytimg.com/vi/SRKpT862LJs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmLaGTOyyKZ-jZ8wCiicKBDxiIWA",
+          "views": "239,300 views",
+          "channelId": "UCZRWULA74IIdjtdkuswzLIQ",
+          "addedAt": 1790308392976
+        },
+        {
+          "id": "H2AkhLfjv6I",
+          "title": "Satinder Sartaj (Ukulele Cover)",
+          "artist": "Udaarian",
+          "duration": "2:23",
+          "durationSeconds": 143,
+          "thumbnail": "https://i.ytimg.com/vi/H2AkhLfjv6I/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhTdfoOX4bqMzEj3C4ryywn-FqBg",
+          "views": "22,954,140 views",
+          "channelId": "UCsq-gOWuScrdp_ilnu4R4fg",
+          "addedAt": 1790308239969
+        },
+        {
+          "id": "RHAEgj7mGpA",
+          "title": "Anand Kaaraj - Bhai Harjinder Singh Ji, Bhai Maninder Singh Ji",
+          "artist": "Lavaan",
+          "duration": "6:56",
+          "durationSeconds": 416,
+          "thumbnail": "https://i.ytimg.com/vi/RHAEgj7mGpA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAw9wKGrbVFWjjRz4x8Y8VhgEb2Vw",
+          "views": "1,774,430 views",
+          "channelId": "UC884UDwNldmpdEiS1mgtijA",
+          "addedAt": 1790308229891
+        },
+        {
+          "id": "4qBc2oz-oxE",
+          "title": "[Jasmine sandlas ★ singer]",
+          "artist": "Laavan",
+          "duration": "3:06",
+          "durationSeconds": 186,
+          "thumbnail": "https://i.ytimg.com/vi/4qBc2oz-oxE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAtAFigIMCAAQARh_IBMoIzAP&rs=AOn4CLAcT_wkxNBrEFTzlyjBg57l-kxTQg",
+          "views": "589,382 views",
+          "channelId": "UC8u-R9qniH54a5P4K4_LS8Q",
+          "addedAt": 1790308228843
+        },
+        {
+          "id": "LBa_mcAJbsI",
+          "title": "Jasmine Sandlas & Mofusion",
+          "artist": "Laavan",
+          "duration": "3:06",
+          "durationSeconds": 186,
+          "thumbnail": "https://i.ytimg.com/vi/LBa_mcAJbsI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLATizyPk43H5WdyTK7nnMxz56FuCA",
+          "views": "1,271,333 views",
+          "channelId": "UCV3zzcO3NMU7KTyldMiXlog",
+          "addedAt": 1790308133326
+        },
+        {
+          "id": "OxXKDGO-MYQ",
+          "title": "LAAVAN (Music Video) Jasmine Sandlas",
+          "artist": "Jasmine Sandlas",
+          "duration": "3:07",
+          "durationSeconds": 187,
+          "thumbnail": "https://i.ytimg.com/vi/OxXKDGO-MYQ/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBQoJzAP&rs=AOn4CLCpm6lgBHRNho4Gt_7TZfMtCZuMwA",
+          "views": "76,472,569 views",
+          "channelId": "UCKXUXx16fR-S0m54fDG9-MQ",
+          "addedAt": 1790307942862
+        }
+      ],
+      "searchHistory": [
+        "laavan",
+        "The Weeknd",
+        "Taylor Swift",
+        "Coldplay",
+        "Billie Eilish"
+      ],
+      "lastPlayed": {
+        "song": {
+          "id": "7D4vNcK6D38",
+          "title": "Coke Studio",
+          "artist": "Coke Studio Pakistan",
+          "duration": "6:41",
+          "durationSeconds": 401,
+          "thumbnail": "https://i.ytimg.com/vi/7D4vNcK6D38/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcweFgBjCLgmgu-0jCaQjSAC-xtA",
+          "views": "139,735,135 views",
+          "channelId": "UCM1VesJtJ9vTXcMLLr_FfdQ"
+        },
+        "position": 33,
+        "timestamp": 1790308491501
+      }
+    }
+  ]
+}

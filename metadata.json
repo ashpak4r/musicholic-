@@ -1,0 +1,6 @@
+{
+  "name": "MusicHolic",
+  "description": "Stream trending music, search songs, explore smart recommendations, and listen uninterrupted with a modern dark music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
